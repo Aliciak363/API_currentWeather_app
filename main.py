@@ -7,7 +7,7 @@ from datetime import datetime
 import requests
 from geopy.geocoders import Nominatim
 #geopy: -uľahčuje nájsť súradnice adries, miest, krajín a orientačných bodov na celom svete pomocou geokóderov tretích strán a iných zdrojov údajov
-# Nominatim: (by name-podľa mena) - vyhľadávanie údajov OpenStreetMap podľa adresy alebo polohy
+#Nominatim: -podľa mena, vyhľadávanie údajov OpenStreetMap podľa adresy alebo polohy
 
 
 api_key = '10c21feec6deeba3134aab0972c7d355'
